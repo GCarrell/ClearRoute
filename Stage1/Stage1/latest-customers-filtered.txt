@@ -1,0 +1,14 @@
+name,age,address,phone,email
+Macey Bernard,54,Ap #617-9273 Donec St.,(0118) 830 5233,arcu.iaculis.enim@outlook.edu
+Otto Hunter,57,6697 Vehicula. Rd.,0908 260 7332,aliquam.tincidunt@hotmail.ca
+Leandra Haynes,58,"Ap #423-9077 Tincidunt, St.",0800 225832,non.sapien@outlook.org
+Wynter Patterson,50,Ap #344-3602 Faucibus St.,0845 46 44,diam@outlook.net
+Hanna Gutierrez,46,"P.O. Box 653, 3626 Sed Rd.",076 5500 7871,aliquet@google.couk
+Michael Dale,50,3355 In St.,(0171) 316 0361,magnis.dis@icloud.ca
+Daquan Casey,58,Ap #660-4725 Urna St.,0800 881 5557,erat@outlook.edu
+Joan Lindsey,55,984-6211 Aliquet Road,056 6272 0263,enim.gravida@protonmail.net
+Sophia Herring,47,6760 Gravida. Rd.,0815 842 7458,molestie.tellus.aenean@icloud.net
+Yasir Willis,52,"7372 Congue, St.",(013801) 50256,ipsum@outlook.edu
+Marah Henry,57,313-1116 Diam Av.,0800 1111,bibendum.donec@yahoo.org
+Ebony Stokes,48,"Ap #775-3685 Pede, Street",07624 169575,curabitur@protonmail.couk
+Caldwell Stafford,40,543-9641 Dictum Street,0831 876 2711,mauris.ut@hotmail.net
